@@ -1,0 +1,11 @@
+{
+  "login.changePass": "Đổi mật khẩu",
+  "login.confirmPass": "Nhập lại mật khẩu mới",
+  "login.getOtp.title": "OTP",
+  "login.getPassword": "Lấy lại mật khẩu",
+  "login.goBack": "Về trang đăng nhập",
+  "login.newPass": "Mật khẩu mới",
+  "login.placeholder.getOtp": "Nhập OTP",
+  "login.resetPassword": "Đặt lại mật khẩu",
+  "login.sendMail": "Gửi OTP"
+}

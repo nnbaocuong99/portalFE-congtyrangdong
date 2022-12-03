@@ -1,0 +1,11 @@
+{
+  "login.changePass": "Change password",
+  "login.confirmPass": "Confirm password",
+  "login.getOtp.title": "OTP",
+  "login.getPassword": "Get password",
+  "login.goBack": "Go back to Login Page ",
+  "login.newPass": "New password",
+  "login.placeholder.getOtp": "Enter OTP",
+  "login.resetPassword": "Reset password",
+  "login.sendMail": "Send OTP"
+}
